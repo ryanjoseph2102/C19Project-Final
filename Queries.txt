@@ -1,0 +1,3 @@
+The girl is not moving.How to make the girl move?
+How can I make the obstacle to come down?
+How to remove the white background of the girl and the obstacle?
